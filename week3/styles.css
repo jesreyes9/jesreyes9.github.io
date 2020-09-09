@@ -52,7 +52,7 @@ nav.a{
   text-decoration:none;
 }
 
-nav.a:hover{
+nav:hover a{
 background-color:#7C1A00;
 }
 

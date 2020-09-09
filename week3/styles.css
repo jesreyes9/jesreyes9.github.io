@@ -11,7 +11,7 @@
  background-color: #F7F3DE;
  }
 
- header.h1{
+ .body header.h1{
   font-size: 350%;
   text-decoration-color: #7C1A00;
   padding: 40px 40px 40px 120px;
@@ -68,7 +68,7 @@ footer{
   text-align:center;
 }
 
-.footer ul.li{
+.body footer.li{
   display:inline;
   padding:10px;
 }

@@ -36,7 +36,7 @@ ul{
  text-decoration-color: #7C1A00;
 }
 
-nav.li{
+li{
   margin:10px;
   border-width: 1px;
   border-style: solid;
@@ -52,7 +52,7 @@ nav.a{
   text-decoration:none;
 }
 
-nav:hover{
+nav.a:hover{
 background-color:#7C1A00;
 }
 

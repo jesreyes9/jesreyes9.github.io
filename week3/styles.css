@@ -11,7 +11,7 @@
  background-color: #F7F3DE;
  }
 
-.header.h1{
+ header.h1{
   font-size: 350%;
   text-decoration-color: #7C1A00;
   padding: 40px 40px 40px 120px;
@@ -52,7 +52,7 @@
   text-decoration:none;
 }
 
-.section nav.a:hover{
+nav:hover a {
 background-color:#7C1A00;
 }
 

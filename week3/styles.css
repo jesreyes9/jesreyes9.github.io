@@ -18,6 +18,7 @@
   background-image: url("header-star-1.gif");
   background-position: left top;
   background-attachment:fixed;
+  background-repeat: no-repeat;
 
   }
 

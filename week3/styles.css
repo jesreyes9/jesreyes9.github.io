@@ -20,7 +20,7 @@ header.h1{
   background-attachment:fixed;
   }
 
-section.container{
+#container{
   margin-bottom:30px;
 }
 
@@ -29,14 +29,14 @@ nav{
   width: 150px;
 }
 
-nav.ul{
+ul{
  padding:0px;
  margin:0px;
  list-style-type: none;
  text-decoration-color: #7C1A00;
 }
 
-nav.li{
+li{
   margin:10px;
   border-width: 1px;
   border-style: solid;

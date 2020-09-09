@@ -29,14 +29,14 @@ nav{
   width: 150px;
 }
 
-ul{
+nav.ul{
  padding:0px;
  margin:0px;
  list-style-type: none;
  text-decoration-color: #7C1A00;
 }
 
-li{
+nav.li{
   margin:10px;
   border-width: 1px;
   border-style: solid;

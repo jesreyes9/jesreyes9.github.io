@@ -5,9 +5,78 @@ body{
   font-style: normal;
   color: #ffff80;
   background-color: #ff4d4d;
+  margin:20px;
+  padding:20px;
 }
 
+header h2{
+  color:#66e0ff;
+}
 footer{
-  text-align:center;
+  text-align: center;
+  margin-bottom: inherit;
+  color:#66e0ff;
+}
 
+#tortilla{
+  float:right;
+}
+
+nav ul{
+  list-style-type: none;
+  margin:0;
+  padding:0;
+  overflow:hidden;
+  background-color: #66ffb3;
+  position: fixed;
+ top: 0;
+ width: 100%;
+
+}
+
+.footer {
+  height: 50px;
+  margin-top: -50px;
+}
+
+nav li{
+  display:inline;
+  float:left;
+  border-right: 1px solid #bbb;
+}
+
+nav a{
+  display: block;
+  color: #ff8c1a ;
+  text-align: center;
+  padding: 11px 11px;
+  text-decoration: none;
+  font-family:helvetica, serif;
+  font-size: 20px;
+
+}
+
+.container{
+  position: relative;
+ bottom: 0;
+ width: 100%;
+}
+
+nav{
+  padding:8px;
+  margin:8px;
+}
+
+li a:hover{
+  background-color:#ccccff;
+}
+
+aside {
+  width: 30%;
+  padding-left: 15px;
+  margin-left: 15px;
+  float: right;
+  font-style: italic;
+  font-size: 13px;
+  background-color: #ff8c1a ;
 }

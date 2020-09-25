@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+body{
+  font-family:helvetica, serif, Times;
+  font-style: normal;
+  color: #ffff80;
+  background-color: #ff4d4d;
+}
+
+footer{
+  text-align:center;
+
+}
